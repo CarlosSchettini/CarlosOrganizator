@@ -14,13 +14,12 @@ Um programa em Python que automatiza a organização de arquivos em um diretóri
 
 ## 🌟 Funcionalidades
 
-- Organiza automaticamente arquivos em categorias predefinidas
-- Interface de usuário amigável via terminal
+- Organiza automaticamente arquivos em pastas predefinidas
+- Interface de usuário amigável
 - Barra de progresso em tempo real
 - Tratamento de arquivos duplicados
 - Suporte para mais de 100 extensões diferentes
 - Criação automática de pastas conforme necessidade
-- Resumo detalhado da organização realizada
 
 ## 📂 Categorias de Organização
 
