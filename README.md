@@ -1,6 +1,3 @@
-# Organizador Carlos 📁✨
-Um programa em Python que automatiza a organização de arquivos em um diretório, classificando-os em pastas com base em suas extensões.
-
 ```ascii
                            **                 
                           /**                 
@@ -11,6 +8,10 @@ Um programa em Python que automatiza a organização de arquivos em um diretóri
 //***** //********/***    ***//******  ****** 
  /////   //////// ///    ///  //////  //////  
 ```
+
+
+# Organizador Carlos 📁✨
+Um programa em Python que automatiza a organização de arquivos em um diretório, classificando-os em pastas com base em suas extensões.
 
 ## 🌟 Funcionalidades
 
