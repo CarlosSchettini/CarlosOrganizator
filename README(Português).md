@@ -13,6 +13,36 @@
 # Organizador Carlos 📁✨
 Um programa em Python que automatiza a organização de arquivos em um diretório, classificando-os em pastas com base em suas extensões.
 
+---
+
+## ⚠️ Notas Importantes de Segurança
+### Windows
+O executável foi criado usando PyInstaller. Devido à forma como o PyInstaller empacota aplicações Python, o Windows Defender pode marcá-lo como potencialmente inseguro. Este é um falso positivo. Para executar o programa:
+
+- Clique com o botão direito no executável e selecione "Propriedades"
+- Marque a caixa "Desbloquear" ao lado de "Este arquivo veio de outro computador"
+- Clique em "Aplicar" e "OK"
+
+Alternativamente, para adicionar uma exceção no Windows Defender:
+
+- Abra a Segurança do Windows
+- Vá para "Proteção contra vírus e ameaças"
+- Clique em "Gerenciar configurações" em "Configurações de proteção contra vírus e ameaças"
+- Role até "Exclusões" e clique em "Adicionar ou remover exclusões"
+- Clique em "Adicionar uma exclusão" e selecione "Arquivo"
+- Navegue até o executável do Carlos Organizator
+- Clique em "Selecionar" para adicionar a exclusão
+
+### macOS
+Ao tentar executar o programa no macOS, você pode ver uma mensagem dizendo "não pode ser aberto porque é de um desenvolvedor não identificado". Para executar o programa:
+
+- Control-clique (ou clique com o botão direito) no aplicativo
+- Selecione "Abrir" no menu de atalho
+- Clique em "Abrir" na caixa de diálogo
+- O aplicativo será salvo como uma exceção nas suas configurações de segurança
+
+---
+
 ## 🌟 Funcionalidades
 
 - Organiza automaticamente arquivos em pastas predefinidas

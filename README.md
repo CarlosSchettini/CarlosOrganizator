@@ -13,6 +13,37 @@
 
 A Python program that automates file organization in directories by categorizing files into folders based on their extensions.
 
+---
+## ⚠️ Important Security Notes
+
+# Windows
+
+The executable was created using PyInstaller. Due to the way PyInstaller packages Python applications, Windows Defender might flag it as potentially unsafe. This is a false positive. To run the program:
+
+- Right-click the executable and select "Properties"
+- Check the "Unblock" box next to "This file came from another computer"
+- Click "Apply" and "OK"
+
+Alternatively, to add an exception in Windows Defender:
+
+- Open Windows Security
+- Go to "Virus & threat protection"
+- Click "Manage settings" under "Virus & threat protection settings"
+- Scroll down to "Exclusions" and click "Add or remove exclusions"
+- Click "Add an exclusion" and select "File"
+- Browse to the Carlos Organizator executable
+- Click "Select" to add the exclusion
+
+# macOS
+When trying to run the program on macOS, you might see a message saying "cannot be opened because it is from an unidentified developer". To run the program:
+
+- Control-click (or right-click) the app
+- Select "Open" from the shortcut menu
+- Click "Open" in the dialog box
+- The app will be saved as an exception to your security settings
+
+----
+
 ## 🌟 Features
 
 - Automatic file organization based on predefined categories
